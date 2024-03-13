@@ -10,7 +10,7 @@ The place to be and coming soon!
 
 This work is open sourced under the Apache License, Version 2.0.
 
-Copyright 2019 Tao He.
+Copyright 2024 Oxygen Alliance
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
