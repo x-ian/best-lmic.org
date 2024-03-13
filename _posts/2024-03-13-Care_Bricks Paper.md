@@ -6,8 +6,13 @@ category: Jekyll
 layout: post
 ---
 
-<h2>**Submission to the JHIA**</h2>
+<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
+* ERRORs: 0
+* WARNINGs: 0
+* ALERTS: 5 -->
 
+
+## **Submission to the JHIA**
 
 **Author information page**
 
