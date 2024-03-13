@@ -1,5 +1,5 @@
 ---
-title: A LMIC-First Approach to Developing Electronic Medical Record Systems PANDOC
+title: A LMIC-First Approach to Developing Electronic Medical Record Systems
 author: x-ian
 date: 2024-03-12
 category: Jekyll
@@ -21,7 +21,7 @@ University of Washington, Seattle, Washington, USA
 <sup>3</sup>Department of Biomedical Informatics, University of
 Pittsburgh, Pittsburgh, USA
 
-### ***Letter to the Editor:***
+## Letter to the Editor
 
 Having spent almost two decades developing electronic medical record
 (EMR) systems in low- and middle-income countries (LMIC), the inability
@@ -41,7 +41,7 @@ EMR system, its environment and how these interact when the system is
 implemented. The following six themes describe the proposed LMIC-First
 approach to EMR design:
 
-**Democratised EMR Development**
+### Democratised EMR Development
 
 EMR implementation in LMICs has mostly followed a project-based approach
 with independent contractors or implementing partners funded by donors
@@ -62,7 +62,7 @@ this worrying trend, MoH staff must be empowered with EMRs that have
 easy-to-use, built-in tools for addressing continually changing clinical
 landscapes and guidelines.
 
-**Process- & guideline-centric**
+### Process- & guideline-centric
 
 Many attempts to build EMR systems for LMIC settings focus on data
 collection with limited consideration of the care process. Healthcare is
@@ -83,7 +83,7 @@ prioritise displaying accurate and timely information through
 well-designed workflows rather than being designed for data collection,
 billing, and reporting.
 
-**Point-of-care**
+### Point-of-care
 
 EMRs hold promise for improving the quality and delivery of care when
 used by frontline healthcare workers during care delivery. Point-of-care
@@ -93,7 +93,7 @@ staff/time to perform data entry required for reporting. Point-of-care
 EMRs must offer value to clinicians to be used consistently and be
 designed in a way that does not interfere with care provision.
 
-**Touchscreen-first**
+### Touchscreen-first
 
 Touchscreen user interfaces greatly reduce the need for hand-to-eye
 coordination over traditional mouse and keyboard interfaces and offer an
@@ -106,7 +106,7 @@ limitations when later adapted for touchscreen
 user interface around a well-defined set of criteria improves the
 usability of systems and makes user adoption of the system easier.
 
-**Low cost**
+### Low cost
 
 LMICs have limited healthcare resources. While electronic systems can
 improve the delivery and quality of care, this cannot be done at the
@@ -122,7 +122,7 @@ successful projects. However, little attention is paid during
 design-time to the overall cost of ownership of these solutions and what
 they entail for the limited resources available.
 
-**Low power**
+### Low power
 
 Continuous availability of electricity remains a problem in many LMICs
 and their health facilities \[10\]. EMRs require electricity, preferably
