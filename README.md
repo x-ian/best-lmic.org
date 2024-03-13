@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Best-LMIC.org
+title: Biomedical Engineering Systems and technology - for low and middle income countries
 permalink: /
 ---
-
 
 The place to be and coming soon!
 
