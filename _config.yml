@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Best-LMIC.org
+longtitle:        Best-LMIC.org
+author:           x-ian
+email:            info@best-lmic.org
 description: >
-  Build Jekyll site with the GitBook style.
+  --description--
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://x-ian.github.io'
+baseurl:          '/best-lmic.org'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

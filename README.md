@@ -1,12 +1,9 @@
 ---
 layout: home
-title: best-lmic.org
+title: Best-LMIC.org
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
-
-## Best-LMIC.org
 
 The place to be and coming soon!
 
