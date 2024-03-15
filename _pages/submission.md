@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is the submission page.
+The submission portal will open in May 2024. Start praparing you manuscripts for submission now!
