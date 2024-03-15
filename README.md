@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Biomedical Engineering Systems and technology - for low and middle income countries
+title: The Journal of Biomedical Engineering Systems and Technologies for Low- and Middle-Income Countries
 permalink: /
 ---
 
