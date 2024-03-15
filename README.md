@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Journal of Biomedical Engineering Systems and Technologies for Low- and Middle-Income Countries
+title: BEST-LMIC The Journal of Biomedical Engineering Systems and Technologies for Low- and Middle-Income Countries
 permalink: /
 ---
 
